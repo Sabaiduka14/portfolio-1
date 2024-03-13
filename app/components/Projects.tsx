@@ -19,7 +19,7 @@ export default function Projects() {
             src={Ecommerce}
             alt=""
           />
-          <Button className="font-semibold w-full md:w-full mt-3 py-6">
+          <Button className="font-semibold w-full md:w-full mt-3 py-4">
             <a href="https://sabashop-app.netlify.app/">View Site</a>
           </Button>
         </m.div>
@@ -29,7 +29,7 @@ export default function Projects() {
             src={Expence}
             alt=""
           />
-          <Button className="font-semibold w-full md:w-full mt-3 py-6">
+          <Button className="font-semibold w-full md:w-full mt-3 py-4">
             <a href="https://saba-tracker.netlify.app/">View Site</a>
           </Button>
         </m.div>
@@ -39,7 +39,7 @@ export default function Projects() {
             src={Reddit}
             alt=""
           />
-          <Button className="w-full md:w-full font-semibold mt-3 py-6">
+          <Button className="w-full md:w-full font-semibold mt-3 py-4">
             <a href="https://sabashop-app.netlify.app/">View Site</a>
           </Button>
         </m.div>
